@@ -38,7 +38,7 @@ function Navbar() {
             className="flex items-center space-x-2 text-gold hover:text-gold/80 transition"
           >
             <Spray size={24} className="text-gold" />
-            <span className="text-xl font-serif font-bold">AromaEssence</span>
+            <span className="text-xl font-light">MYKONOS</span>
           </NavLink>
 
           {/* Desktop Menu */}
@@ -153,3 +153,4 @@ function Navbar() {
 }
 
 export default Navbar;
+

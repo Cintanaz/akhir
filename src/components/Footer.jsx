@@ -9,13 +9,13 @@ function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2 text-gold">
               <Spray size={24} />
-              <span className="text-xl font-serif font-bold">AromaEssence</span>
+              <span className="text-xl font-light">MYKONOS</span>
             </div>
             <p className="text-sm text-gray-400">
               Lepaskan aroma signature Anda dengan koleksi parfum premium kami yang dibuat dengan bahan-bahan alami terbaik.
             </p>
             <div className="flex space-x-4 pt-2">
-              <a href="#" className="text-gray-400 hover:text-gold transition">
+              <a href="https:/instagram.com/officialmykonos" className="text-gray-400 hover:text-gold transition">
                 <Instagram size={20} />
               </a>
               <a href="#" className="text-gray-400 hover:text-gold transition">
@@ -86,7 +86,7 @@ function Footer() {
                 Jl. Aroma Indah No. 123, Jakarta
               </li>
               <li className="text-sm text-gray-400">
-                customer@aromaessence.id
+                @officialmykonos
               </li>
               <li className="text-sm text-gray-400">
                 +62 812 3456 7890
@@ -104,3 +104,4 @@ function Footer() {
 }
 
 export default Footer;
+

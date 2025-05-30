@@ -97,8 +97,8 @@ function Contact() {
                 <div>
                   <h3 className="font-medium text-white mb-1">Email</h3>
                   <p className="text-gray-400">
-                    customer@aromaessence.id<br />
-                    info@aromaessence.id
+                    customer@mykonos.id<br />
+                    @officialmykonos
                   </p>
                 </div>
               </div>
@@ -248,3 +248,4 @@ function Contact() {
 }
 
 export default Contact;
+

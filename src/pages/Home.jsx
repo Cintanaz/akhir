@@ -144,7 +144,7 @@ function Home() {
               name="Budi Santoso"
               role="Executive"
               image="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-              testimonial="Royal Oud dari AromaEssence benar-benar mencerminkan kemewahan. Menjadi signature scent saya untuk pertemuan bisnis."
+              testimonial="Royal Oud dari mykonos benar-benar mencerminkan kemewahan. Menjadi signature scent saya untuk pertemuan bisnis."
             />
             <TestimonialCard 
               name="Anita Permata"
@@ -167,3 +167,4 @@ function Home() {
 }
 
 export default Home;
+
