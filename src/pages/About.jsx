@@ -37,7 +37,7 @@ function About() {
               </p>
               <p className="text-gray-300">
                 Diproduksi dengan standar internasional dan formulasi eksklusif, kami berkomitmen untuk menghadirkan parfum dengan wangi yang tahan lama dan menyatu sempurna dengan karakter pemakainya.
-                <br /> Dari keseharian hingga momen spesial, biarkan Mykonos menjadi bagian dari cerita hidup Anda.
+                <br /> Dgiari keseharian hingga momen spesial, biarkan Mykonos menjadi bagian dari cerita hidup Anda.
               </p>
             </div>
             <div className="w-full md:w-1/2">
