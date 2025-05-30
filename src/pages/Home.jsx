@@ -144,13 +144,9 @@ function Home() {
               name="Budi Santoso"
               role="Executive"
               image="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-<<<<<<< HEAD
-              testimonial="Royal Oud dari mykonos benar-benar mencerminkan kemewahan. Menjadi signature scent saya untuk pertemuan bisnis."
-=======
               testimonial="Exchanted dari Mykonos benar-benar mencerminkan kemewahan. Menjadi signature scent saya untuk pertemuan bisnis."
->>>>>>> dzy
             />
-            <TestimonialCard 
+            <TestimonialCard
               name="Anita Permata"
               role="Fashion Designer"
               image="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
