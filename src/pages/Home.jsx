@@ -43,7 +43,7 @@ function Home() {
       >
         <div className="container mx-auto px-4 py-20 text-center">
           <h1 className="text-4xl md:text-6xl font-serif font-bold text-white mb-4">
-            Lepaskan <span className="text-gold">Aroma Signature</span> Anda
+            Dapatkan <span className="text-gold">Mykonos</span> Anda
           </h1>
           <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             Koleksi parfum premium dengan bahan-bahan alami terbaik untuk menemani setiap momen berharga Anda.
@@ -66,7 +66,7 @@ function Home() {
               Koleksi <span className="text-gold">Unggulan</span>
             </h2>
             <p className="text-gray-400 mt-3 max-w-2xl mx-auto">
-              Temukan aroma signature Anda dengan koleksi unggulan kami yang dibuat dengan penuh ketelitian.
+              Temukan Mykonos Anda dengan koleksi unggulan kami yang dibuat dengan penuh ketelitian.
             </p>
           </div>
 
@@ -129,7 +129,7 @@ function Home() {
               Apa Kata <span className="text-gold">Pelanggan Kami</span>
             </h2>
             <p className="text-gray-400 mt-3 max-w-2xl mx-auto">
-              Pengalaman nyata dari pelanggan yang telah menemukan aroma signature mereka dengan AromaEssence.
+              Pengalaman nyata dari pelanggan yang telah menemukan aroma signature mereka dengan Mykonos.
             </p>
           </div>
 
