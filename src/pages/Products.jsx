@@ -10,73 +10,73 @@ function Products() {
   const products = [
     {
       id: 1,
-      name: 'Midnight Elegance',
-      price: 850000,
-      image: 'https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Vanilla Clouds Eau De Parfum',
+      price: 320000,
+      image: 'baseseller1.png',
       description: 'Aroma mewah dengan sentuhan lavender dan kayu cedar',
       category: 'signature'
     },
     {
       id: 2,
-      name: 'Serenity Bloom',
-      price: 780000,
-      image: 'https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Enchanted Extrait De Parfum',
+      price: 199000,
+      image: 'baseseller2.png',
       description: 'Wangi bunga yang menenangkan dengan sentuhan musk',
       category: 'floral'
     },
     {
       id: 3,
-      name: 'Royal Oud',
-      price: 1250000,
-      image: 'https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Aphrodite Eau De Parfum',
+      price: 199000,
+      image: 'baseseller3.png',
       description: 'Parfum premium dengan aroma oud dan amber yang eksotis',
       category: 'signature'
     },
     {
       id: 4,
-      name: 'Velvet Rose',
-      price: 920000,
-      image: 'https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'mykonos Glitch',
+      price: 300000,
+      image: 'mykonos1.png',
       description: 'Wangi mawar yang elegan dengan sentuhan vanila',
       category: 'floral'
     },
     {
       id: 5,
-      name: 'Ocean Breeze',
-      price: 750000,
-      image: 'https://images.pexels.com/photos/1544356/pexels-photo-1544356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos California',
+      price: 300000,
+      image: 'mykonos2.jpg',
       description: 'Kesegaran laut dengan aroma citrus yang menyegarkan',
       category: 'fresh'
     },
     {
       id: 6,
-      name: 'Amber Woods',
-      price: 980000,
-      image: 'https://images.pexels.com/photos/4110061/pexels-photo-4110061.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos dark Secret',
+      price: 230000,
+      image: 'mykonos3.jpg',
       description: 'Aroma kayu yang hangat dengan sentuhan amber dan vanila',
       category: 'woody'
     },
     {
       id: 7,
-      name: 'Citrus Delight',
-      price: 720000,
-      image: 'https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Baby Love',
+      price: 230000,
+      image: 'mykonos4.jpg',
       description: 'Aroma segar dari perpaduan jeruk dan bergamot',
       category: 'fresh'
     },
     {
       id: 8,
-      name: 'Mystic Musk',
-      price: 890000,
-      image: 'https://images.pexels.com/photos/3373741/pexels-photo-3373741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos jynx',
+      price: 190000,
+      image: 'mykonos5.jpg',
       description: 'Aroma musk yang misterius dengan sentuhan bunga',
       category: 'woody'
     },
     {
       id: 9,
-      name: 'Enchanted Garden',
-      price: 820000,
-      image: 'https://images.pexels.com/photos/37530/flower-roses-orange-thornless-37530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Xoxo rosy',
+      price: 200000,
+      image: 'mykonos6.jpg',
       description: 'Perpaduan bunga dan herbal yang menyegarkan',
       category: 'floral'
     }
