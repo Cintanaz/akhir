@@ -9,23 +9,23 @@ function Home() {
   const featuredProducts = [
     {
       id: 1,
-      name: 'Midnight Elegance',
-      price: 850000,
-      image: 'https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Vanilla Clouds Eau De Parfum',
+      price: 320000,
+      image: 'baseseller1.png',
       description: 'Aroma mewah dengan sentuhan lavender dan kayu cedar'
     },
     {
       id: 2,
-      name: 'Serenity Bloom',
-      price: 780000,
-      image: 'https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Enchanted Extrait De Parfum',
+      price: 190000,
+      image: 'baseseller2.png',
       description: 'Wangi bunga yang menenangkan dengan sentuhan musk'
     },
     {
       id: 3,
-      name: 'Royal Oud',
-      price: 1250000,
-      image: 'https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Aphrodite Eau De Parfum',
+      price: 190000,
+      image: 'baseseller3.png',
       description: 'Parfum premium dengan aroma oud dan amber yang eksotis'
     }
   ];
@@ -94,7 +94,7 @@ function Home() {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="w-full md:w-1/2">
               <img 
-                src="https://images.pexels.com/photos/3685530/pexels-photo-3685530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750" 
+                src="pp.jpg" 
                 alt="Proses pembuatan parfum" 
                 className="rounded-lg shadow-xl"
               />
@@ -104,7 +104,7 @@ function Home() {
                 Dibuat dengan <span className="text-gold">Keahlian & Passion</span>
               </h2>
               <p className="text-gray-300 mb-6">
-                AromaEssence didirikan dengan satu tujuan: menciptakan parfum premium yang menyatukan keindahan alam dan seni pembuatan parfum.
+                Mykonos didirikan dengan satu tujuan: menciptakan parfum premium yang menyatukan keindahan alam dan seni pembuatan parfum.
               </p>
               <p className="text-gray-300 mb-8">
                 Setiap parfum kami dirancang oleh ahli parfum terkemuka, menggunakan bahan-bahan alami terbaik yang dipilih dari seluruh dunia.
@@ -138,19 +138,23 @@ function Home() {
               name="Sari Wijaya"
               role="Beauty Influencer"
               image="https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-              testimonial="Midnight Elegance menjadi parfum favorit saya untuk acara formal. Aromanya bertahan lama dan selalu mendapat pujian!"
+              testimonial="vanilla Clouds Elegance menjadi parfum favorit saya untuk acara formal. Aromanya bertahan lama dan selalu mendapat pujian!"
             />
             <TestimonialCard 
               name="Budi Santoso"
               role="Executive"
               image="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
+<<<<<<< HEAD
               testimonial="Royal Oud dari mykonos benar-benar mencerminkan kemewahan. Menjadi signature scent saya untuk pertemuan bisnis."
+=======
+              testimonial="Exchanted dari Mykonos benar-benar mencerminkan kemewahan. Menjadi signature scent saya untuk pertemuan bisnis."
+>>>>>>> dzy
             />
             <TestimonialCard 
               name="Anita Permata"
               role="Fashion Designer"
               image="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-              testimonial="Serenity Bloom sempurna untuk penggunaan sehari-hari. Wanginya lembut namun tetap meninggalkan kesan mendalam."
+              testimonial="Aphrodite sempurna untuk penggunaan sehari-hari. Wanginya lembut namun tetap meninggalkan kesan mendalam."
             />
           </div>
         </div>
