@@ -9,23 +9,23 @@ function Home() {
   const featuredProducts = [
     {
       id: 1,
-      name: 'Midnight Elegance',
-      price: 850000,
-      image: 'https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Vanilla Clouds Eau De Parfum',
+      price: 320000,
+      image: 'baseseller1.png',
       description: 'Aroma mewah dengan sentuhan lavender dan kayu cedar'
     },
     {
       id: 2,
-      name: 'Serenity Bloom',
-      price: 780000,
-      image: 'https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Enchanted Extrait De Parfum',
+      price: 190000,
+      image: 'baseseller2.png',
       description: 'Wangi bunga yang menenangkan dengan sentuhan musk'
     },
     {
       id: 3,
-      name: 'Royal Oud',
-      price: 1250000,
-      image: 'https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
+      name: 'Mykonos Aphrodite Eau De Parfum',
+      price: 190000,
+      image: 'baseseller3.png',
       description: 'Parfum premium dengan aroma oud dan amber yang eksotis'
     }
   ];
@@ -94,7 +94,7 @@ function Home() {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="w-full md:w-1/2">
               <img 
-                src="https://images.pexels.com/photos/3685530/pexels-photo-3685530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750" 
+                src="pp.jpg" 
                 alt="Proses pembuatan parfum" 
                 className="rounded-lg shadow-xl"
               />
