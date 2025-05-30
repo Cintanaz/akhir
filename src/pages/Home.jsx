@@ -104,7 +104,7 @@ function Home() {
                 Dibuat dengan <span className="text-gold">Keahlian & Passion</span>
               </h2>
               <p className="text-gray-300 mb-6">
-                AromaEssence didirikan dengan satu tujuan: menciptakan parfum premium yang menyatukan keindahan alam dan seni pembuatan parfum.
+                Mykonos didirikan dengan satu tujuan: menciptakan parfum premium yang menyatukan keindahan alam dan seni pembuatan parfum.
               </p>
               <p className="text-gray-300 mb-8">
                 Setiap parfum kami dirancang oleh ahli parfum terkemuka, menggunakan bahan-bahan alami terbaik yang dipilih dari seluruh dunia.
@@ -138,19 +138,19 @@ function Home() {
               name="Sari Wijaya"
               role="Beauty Influencer"
               image="https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-              testimonial="Midnight Elegance menjadi parfum favorit saya untuk acara formal. Aromanya bertahan lama dan selalu mendapat pujian!"
+              testimonial="vanilla Clouds Elegance menjadi parfum favorit saya untuk acara formal. Aromanya bertahan lama dan selalu mendapat pujian!"
             />
             <TestimonialCard 
               name="Budi Santoso"
               role="Executive"
               image="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-              testimonial="Royal Oud dari AromaEssence benar-benar mencerminkan kemewahan. Menjadi signature scent saya untuk pertemuan bisnis."
+              testimonial="Exchanted dari Mykonos benar-benar mencerminkan kemewahan. Menjadi signature scent saya untuk pertemuan bisnis."
             />
             <TestimonialCard 
               name="Anita Permata"
               role="Fashion Designer"
               image="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750"
-              testimonial="Serenity Bloom sempurna untuk penggunaan sehari-hari. Wanginya lembut namun tetap meninggalkan kesan mendalam."
+              testimonial="Aphrodite sempurna untuk penggunaan sehari-hari. Wanginya lembut namun tetap meninggalkan kesan mendalam."
             />
           </div>
         </div>
