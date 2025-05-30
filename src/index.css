@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-gold: 212 175 55;
+    --color-purple-pastel: 200 162 200;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif leading-tight;
+  }
+}
+
+@layer utilities {
+  .text-gold {
+    color: rgb(var(--color-gold));
+  }
+  
+  .bg-gold {
+    background-color: rgb(var(--color-gold));
+  }
+  
+  .border-gold {
+    border-color: rgb(var(--color-gold));
+  }
+  
+  .text-purple-pastel {
+    color: rgb(var(--color-purple-pastel));
+  }
+  
+  .bg-purple-pastel {
+    background-color: rgb(var(--color-purple-pastel));
+  }
+}
+
+@layer components {
+  .container {
+    @apply px-4;
+  }
+}
