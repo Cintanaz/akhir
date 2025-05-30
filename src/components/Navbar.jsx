@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
-import { Menu, X, SprayCan as Spray } from 'lucide-react';
+import { Menu, X, ShoppingCart , SprayCan as Spray } from 'lucide-react';
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -32,14 +32,16 @@ function Navbar() {
       }`}
     >
       <div className="container mx-auto px-4 py-4">
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-around">
           <NavLink
             to="/"
             className="flex items-center space-x-2 text-gold hover:text-gold/80 transition"
           >
             <Spray size={24} className="text-gold" />
-            <span className="text-xl font-serif font-bold">AromaEssence</span>
+            <span className="text-xl font-light">MYKONOS</span>
           </NavLink>
+
+          
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-8">
@@ -83,6 +85,15 @@ function Navbar() {
             >
               Kontak
             </NavLink>
+          </div>
+
+          <div>
+            <NavLink
+            to="https://www.instagram.com/officialmykonos/"
+            className="flex items-center space-x-2 text-gold hover:text-gold/80 transition"
+          >
+            <ShoppingCart size={24} className="text-gold" /> 
+          </NavLink>
           </div>
 
           {/* Mobile Menu Button */}
@@ -153,3 +164,4 @@ function Navbar() {
 }
 
 export default Navbar;
+
